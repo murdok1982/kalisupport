@@ -1,0 +1,2 @@
+API_URL = "https://api.example.com/agent/{agent_id}/query"#aqui teneis que cambiar el endpoint el id de agente esta bien pues es un modelo entrenado
+AGENT_ID = "2b5f7844:20250316:untitled-agent:b791b043"
